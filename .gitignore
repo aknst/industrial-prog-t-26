@@ -1,5 +1,6 @@
 /artifacts/
 /dist/
+/final-reports/
 **/bin/
 **/.env
 **/.env.*
