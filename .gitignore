@@ -1,0 +1,27 @@
+/artifacts/
+/dist/
+**/bin/
+**/.env
+**/.env.*
+!**/.env.example
+**/coverage.out
+**/__pycache__/
+*.pyc
+*.log
+*.docx
+*.pdf
+
+# Local report toolchain and source assignments
+/scripts/
+/reporting/
+/infra/
+/tasks/
+/Makefile
+/tools.lock.json
+/requirements-report.txt
+/practices/*/practice.toml
+/practices/*/demo/
+/practices/*/report/*
+!/practices/*/report/README.md
+!/practices/*/report/assets/
+!/practices/*/report/assets/*.png

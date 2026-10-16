@@ -1,0 +1,10 @@
+go 1.25.0
+
+use (
+    ./practices/01-hello
+    ./practices/02-layout
+    ./practices/03-http
+    ./practices/04-crud
+    ./practices/05-postgres
+    ./practices/06-gorm
+)
