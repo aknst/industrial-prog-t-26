@@ -7,4 +7,10 @@ use (
     ./practices/04-crud
     ./practices/05-postgres
     ./practices/06-gorm
+    ./practices/07-redis
+    ./practices/08-mongo
+    ./practices/09-auth
+    ./practices/10-jwt
+    ./practices/11-notes-api
+    ./practices/12-swagger
 )
